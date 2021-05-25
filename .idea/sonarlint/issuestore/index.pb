@@ -1,0 +1,23 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+Q
+!tutorial-env/Scripts/activate.bat,6\6\66a2abaa6d3dc1ee3df7127647844db0df7c2d86
+I
+mysite/mysite/__init__.py,1\8\180da0871b99acb27857edeab134616701ce39ad
+I
+mysite/mysite/settings.py,f\8\f89381f1b6cfd3322ad429c22de6dd2adb86a9ae
+E
+mysite/mysite/wsgi.py,9\a\9ac6d679228689a1aa40e1d8b03a33be8c64ae5b
+E
+mysite/mysite/asgi.py,9\7\971a46950a70fe2aa07437f5407f82c354a0abb1
+@
+mysite/manage.py,3\a\3aaaf8659cf4a6583450dd9b020999233ed4bcc2
+E
+mysite/polls/views.py,3\8\38ac29eed758277c915df3e9601eef36c812e137
+E
+mysite/mysite/urls.py,2\c\2cc956c3948201ec0a5f53721b083d08df995003
+D
+mysite/polls/urls.py,2\2\2238f4f2b5c23a6ef76840b78941f390c72f5d42
